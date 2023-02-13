@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Kurt Rasmussen",
+        "gender": "Male",
+        "age": "28",
+        "height": "176",
+        "bloodtype": "A+"
+    },
+    {
+        "name": "Mads Petersen",
+        "gender": "Male",
+        "age": "32",
+        "height": "182",
+        "bloodtype": "AB+"
+    },
+    {
+        "name": "Charlotte Høeg",
+        "gender": "Female",
+        "age": "27",
+        "height": "167",
+        "bloodtype": "0-"
+    },
+    {
+        "name": "Morten Breum",
+        "gender": "Male",
+        "age": "42",
+        "height": "184",
+        "bloodtype": "B+"
+    },
+
+    {
+        "name": "Nathanael Didrichsen",
+        "gender": "Male",
+        "age": "29",
+        "height": "174",
+        "bloodtype": "AB+"
+    }
+    
+    ]
